@@ -7,3 +7,9 @@ if(b>a)and(b>c):
 		print(b,"is greater")
 else:
 		print(c,"is greater")
+
+OUTPUT:
+enter value of a:17
+enter value of b:15
+enter value of c:12
+17 is greater
